@@ -7,7 +7,7 @@ Adaptive habit-tracking platform with gamification &amp; social accountability
 ##  Project Overview
 
 HabitForge is an adaptive habit-tracking platform featuring three distinct behavioral modes with personalized gamification and social accountability systems tailored for Gen Z users.
-
+ 
 ###  Three Behavioral Modes
 - **Discipline Mode**: Strict tracking with high XP multipliers and penalties
 - **Balanced Mode**: Flexible tracking with moderate rewards
